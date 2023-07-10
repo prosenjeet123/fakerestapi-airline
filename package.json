@@ -1,0 +1,25 @@
+{
+  "name": "fakerestapi-airline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosenjeet123/fakerestapi-airline.git"
+  },
+  "author": "Prosenjeet paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prosenjeet123/fakerestapi-airline/issues"
+  },
+  "homepage": "https://github.com/prosenjeet123/fakerestapi-airline#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
